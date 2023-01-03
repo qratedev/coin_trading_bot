@@ -3,6 +3,7 @@ from Common.Environment import config
 import requests
 
 
+# 텔레그램 메세지 보내기
 def send_message(message):
     url = f"https://api.telegram.org/bot{config.telegram_token}/sendMessage?chat_id={config.chat_id}&text={message}"
     print(requests.get(url).json())  # this sends the message

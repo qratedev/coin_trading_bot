@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afe3e163-8d0f-4c6a-8edc-126a4e4cfc27" name="Changes" comment="&#10;머지 잘되는건가" />
+    <list default="true" id="afe3e163-8d0f-4c6a-8edc-126a4e4cfc27" name="Changes" comment="텔레그램 메세지 테스트">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="37a9ae53cfb045c6613aff9c807ce29bb83a30df" />
+        <entry key="$PROJECT_DIR$" value="111" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Common/Telegram" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -154,7 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672751917013</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="텔레그램 메세지 테스트">
+      <created>1672752717901</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672752717901</updated>
+    </task>
+    <task id="LOCAL-00011" summary="텔레그램 메세지 테스트">
+      <created>1672752788590</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672752788590</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +205,7 @@
     <MESSAGE value="config 설정" />
     <MESSAGE value="gitignore" />
     <MESSAGE value="&#10;머지 잘되는건가" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;머지 잘되는건가" />
+    <MESSAGE value="텔레그램 메세지 테스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="텔레그램 메세지 테스트" />
   </component>
 </project>
